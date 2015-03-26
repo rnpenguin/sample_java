@@ -13,5 +13,4 @@ after_success:
 notifications:
    email:
        recipients:
-          - exampleone@org.com
-          - exampletwo@org.com
+          - rosshnaylor@gmail.com
